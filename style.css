@@ -242,3 +242,77 @@ p {
     font-weight: 400;
     margin: 13px 0;
 }
+
+
+.see {
+    background-image: url(imgs/section.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.shade {
+    background-color: #292c2fd6;
+    padding: 60px 0;
+}
+
+.shade h2 {
+    text-align: center;
+    color: #ffff;
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 400;
+}
+
+
+.shade h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 55px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+.cr-row {
+    display: flex;
+    padding-top: 60px;
+}
+
+.cir {
+    width: 20%;
+    border: 2px solid #FF214F;
+    border-radius: 50%;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.fa.fa-calendar {
+    margin-top: 20px;
+    font-size: 50px;
+    padding: 10px 0;
+    color: #ff214f;
+}
+
+.icon {
+    margin-top: 20px;
+    font-size: 50px;
+    padding: 10px 0;
+    color: #ff214f;
+}
+
+.cir h3 {
+    color: #fff;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.arrow {
+    width: 6%;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.fa.fa-arrow-right {
+    text-align: center;
+    color: #FF214F;
+}

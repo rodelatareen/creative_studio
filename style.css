@@ -248,7 +248,7 @@ p {
     background-image: url(imgs/section.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: fixed;
 }
 
 .shade {
@@ -315,4 +315,85 @@ p {
 .fa.fa-arrow-right {
     text-align: center;
     color: #FF214F;
+}
+
+
+#service {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    text-align: left;
+}
+
+.box1 {
+    width: 25%;
+    border: 1px solid #EAF0FC;
+    margin: 3px 13px;
+    padding: 30px 35px 25px;
+}
+
+.fa.fa-meetup {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+
+}
+
+.fa.fa-window-restore {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-id-card-o {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-telegram {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-user-circle-o {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-quora {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-superpowers {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.fa.fa-id-badge {
+    text-align: center;
+    color: #FF214F;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.box1 h3 {
+
+    font-size: 1em;
+
+
 }
